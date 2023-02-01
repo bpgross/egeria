@@ -93,7 +93,7 @@ allprojects {
         jakartaannotationVersion = '1.3.5'
         jakartapersistenceVersion = '3.1.0'
 	    jakartavalidationVersion = '3.0.2'
-        janusVersion = '0.6.2'
+        janusVersion = '1.0.0-20230126-071712.e8bfebe'
         javassistVersion = '3.29.0-GA'
         jaxbVersion = '2.3.1'
         jenaVersion = '4.2.0'
